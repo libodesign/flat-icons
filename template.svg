@@ -14,7 +14,7 @@
    id="svg5064"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="italic.svg">
+   sodipodi:docname="template.svg">
   <defs
      id="defs5066" />
   <sodipodi:namedview
@@ -51,46 +51,5 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
-    <g
-       style="display:inline"
-       id="g4969-4-6"
-       transform="translate(-141.0002,-357)"
-       inkscape:label="sc_italic">
-      <rect
-         inkscape:label="a"
-         y="357"
-         x="141.0002"
-         height="16"
-         width="16"
-         id="rect3825-9-8-3-5-0-9-9-6"
-         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-      <path
-         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 145.49375,361 6,0 c 1.05418,0 1.72571,0.9899 1.44583,2 l -1.6625,6 -6,0 c -2.6123,0 -1.57492,-4 1.10834,-4 l 6,0"
-         id="path11643-3-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccssc" />
-    </g>
-    <g
-       inkscape:label="lc_italic"
-       transform="matrix(2,0,0,2,-262.0004,-730)"
-       id="g20889"
-       style="display:inline">
-      <rect
-         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-         id="rect20891"
-         width="16"
-         height="16"
-         x="141.0002"
-         y="357"
-         inkscape:label="a" />
-      <path
-         sodipodi:nodetypes="ccccssc"
-         inkscape:connector-curvature="0"
-         id="path20893"
-         d="m 145.49375,361 6,0 c 1.05418,0 1.72571,0.9899 1.44583,2 l -1.6625,6 -6,0 c -2.6123,0 -1.57492,-4 1.10834,-4 l 6,0"
-         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
-  </g>
+     inkscape:groupmode="layer" />
 </svg>
