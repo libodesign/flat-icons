@@ -14,7 +14,7 @@
    id="svg5064"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="decrementindent.svg">
+   sodipodi:docname="bold.svg">
   <defs
      id="defs5066" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="10.060891"
-     inkscape:cy="8"
+     inkscape:cx="10.601485"
+     inkscape:cy="7.5495049"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,12 +54,9 @@
      inkscape:groupmode="layer">
     <g
        style="display:inline"
-       id="g4969-4-7"
+       id="sc_bold"
        transform="translate(-141.0002,-357)"
-       inkscape:label="sc_bold"
-       inkscape:export-filename="/home/issa/Pictures/x.png"
-       inkscape:export-xdpi="5062.5"
-       inkscape:export-ydpi="5062.5">
+       inkscape:label="sc_bold">
       <rect
          inkscape:label="a"
          y="357"
@@ -82,16 +79,13 @@
          sodipodi:nodetypes="ccccssc" />
     </g>
     <g
-       inkscape:export-ydpi="5062.5"
-       inkscape:export-xdpi="5062.5"
-       inkscape:export-filename="/home/issa/Pictures/x.png"
        inkscape:label="lc_bold"
        transform="matrix(2,0,0,2,-262.0004,-730)"
-       id="g20730"
+       id="lc_bold"
        style="display:inline">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-         id="rect20732"
+         id="rect7563"
          width="16"
          height="16"
          x="141.0002"
@@ -100,13 +94,13 @@
       <path
          sodipodi:nodetypes="ccccssc"
          inkscape:connector-curvature="0"
-         id="path20734"
+         id="path7565"
          d="m 146,361 6,0 c 1.05418,0 2,0.9899 2,2 l 0,6 -6,0 c -2.6123,0 -2.68326,-4 0,-4 l 6,0"
          style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          sodipodi:nodetypes="ccccssc"
          inkscape:connector-curvature="0"
-         id="path20736"
+         id="path7567"
          d="m 145,361 5,0 c 1.05418,0 2,0.9899 2,2 l 0,6 -6,0 c -2.6123,0 -2.68326,-4 0,-4 l 6,0"
          style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
