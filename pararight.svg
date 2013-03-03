@@ -14,7 +14,7 @@
    id="svg5064"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="alighright.svg">
+   sodipodi:docname="pararight.svg">
   <defs
      id="defs5066" />
   <sodipodi:namedview
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,7 +56,7 @@
        style="display:inline"
        id="g4983"
        transform="translate(-101.0002,-357)"
-       inkscape:label="sc_pararight">
+       inkscape:label="sc_rightpara">
       <g
          id="g4910">
         <rect
@@ -94,7 +94,7 @@
       </g>
     </g>
     <g
-       inkscape:label="lc_pararight"
+       inkscape:label="lc_rightpara"
        transform="matrix(2,0,0,2,-182.0004,-730)"
        id="g20528"
        style="display:inline">
