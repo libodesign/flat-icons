@@ -1,0 +1,13 @@
+  1.  Use a 16x16 primary canvas. 
+  2.  Snap to grids for clean shapes. 
+  3.  Stick to the metaphor of the full-color set whenever possible. 
+  4.  Reuse icons available in GNOME symbolic-icons or parts of them whenever possible. 
+  5.  Use as simple of a shape as possible, switching from perspective to head on when needed. 
+  6.  Omit non-defining details and focus on one shape, do not use tiny labels or numbers. 
+  7.  If possible use a 2px outline. 
+  8.  Never use fonts in the outcome, draw the characters with snapping to grids in mind when needed. 
+  9.  Use #bebebe as the color to your icons, if a secondary shade is needed or showing inactivity is desired use the %35 opacity of the same color. 
+  10. Add a blank 16x16 square centered on top of your finished icon and group it with it. 
+  11. Test the outcome in 16x16 and scaled up dimensions. 
+  12. Follow the standard icons naming.
+  13. Group, layer, and name the icon area placeholder according to https://wiki.documentfoundation.org/Design/User_Experience/Tools section SVG Icon / Graphics Workflow, so that we can extract and convert them by script.
