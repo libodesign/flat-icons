@@ -233,10 +233,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="530.42782"
-     inkscape:cy="579.55036"
+     inkscape:cx="348.32446"
+     inkscape:cy="578.25212"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1215"
      inkscape:window-height="1000"
@@ -305,7 +305,8 @@
      id="layer3"
      inkscape:label="Text"
      style="display:inline"
-     transform="translate(172.98577,985.9269)">
+     transform="translate(172.98577,985.9269)"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot5107"
