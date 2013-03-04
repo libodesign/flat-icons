@@ -6,7 +6,7 @@
   6.  Omit non-defining details and focus on one shape, do not use tiny labels or numbers. 
   7.  If possible use a 2px outline. 
   8.  Never use fonts in the outcome, draw the characters with snapping to grids in mind when needed. 
-  9.  Use #bebebe as the color to your icons, if a secondary shade is needed or showing inactivity is desired use the %35 opacity of the same color. 
+  9.  Use #8e8d8c as the color to your icons, if a secondary shade is needed or showing inactivity is desired use the %35 opacity of the same color. 
   10. Add a blank 16x16 square centered on top of your finished icon and group it with it. 
   11. Test the outcome in 16x16 and scaled up dimensions. 
   12. Follow the standard icons naming.
