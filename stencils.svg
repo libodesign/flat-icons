@@ -10,12 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="814.98584"
-   height="1001.9269"
+   width="815"
+   height="1002"
    id="svg3358"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="stencils.svg">
+   sodipodi:docname="stencils.svg"
+   inkscape:export-filename="/home/issa/SparkleShare/flat-icons/stencils.png"
+   inkscape:export-xdpi="90.006569"
+   inkscape:export-ydpi="90.006569">
   <defs
      id="defs3360">
     <inkscape:path-effect
@@ -233,8 +236,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="608.10684"
-     inkscape:cy="530.28889"
+     inkscape:cx="684.94603"
+     inkscape:cy="418.45415"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -276,7 +279,7 @@
      id="layer4"
      inkscape:label="Tango_Testing"
      style="display:none"
-     transform="translate(172.98577,985.9269)"
+     transform="translate(172.98577,986.00002)"
      sodipodi:insensitive="true">
     <image
        y="-1229.1428"
@@ -305,7 +308,7 @@
      id="layer3"
      inkscape:label="Text"
      style="display:inline"
-     transform="translate(172.98577,985.9269)"
+     transform="translate(172.98577,986.00002)"
      sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
@@ -364,7 +367,7 @@
      inkscape:label="Flat"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(172.98577,-50.435303)"
+     transform="translate(172.98577,-50.362183)"
      style="display:inline">
     <g
        id="sc_spellonline"
