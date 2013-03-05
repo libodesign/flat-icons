@@ -235,11 +235,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="33.379791"
-     inkscape:cy="681.05175"
+     inkscape:zoom="8"
+     inkscape:cx="78.938393"
+     inkscape:cy="814.24275"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g21192"
      showgrid="false"
      inkscape:window-width="1215"
      inkscape:window-height="1000"
@@ -2046,10 +2046,11 @@
            x="0"
            y="0"
            xlink:href="#sc_sendmail"
-           id="use21202"
+           id="lc_sendmail"
            transform="matrix(1.5,0,0,1.5,-27,-117)"
            width="16"
-           height="16" />
+           height="16"
+           inkscape:label="lc_sendmail" />
       </g>
     </g>
     <use
