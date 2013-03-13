@@ -294,7 +294,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -496,8 +496,8 @@
     </g>
     <g
        transform="translate(-192,-161.6378)"
-       inkscape:label="sc_newdoc"
-       id="sc_newdoc">
+       inkscape:label="sc_adddirect"
+       id="sc_adddirect">
       <rect
          style="opacity:0.51464431;color:#555753;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect10727-3-4-6"
@@ -3129,8 +3129,8 @@
          style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <g
-       id="lc_newdoc"
-       inkscape:label="lc_newdoc"
+       id="lc_adddirect"
+       inkscape:label="lc_adddirect"
        transform="matrix(1.5000001,0,0,1.5000001,-200,-368.63783)">
       <rect
          y="398"
