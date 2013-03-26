@@ -288,10 +288,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="297.45878"
-     inkscape:cy="380.34473"
+     inkscape:cx="292.32174"
+     inkscape:cy="387.93109"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1215"
      inkscape:window-height="1000"
@@ -4280,13 +4280,13 @@
     <g
        id="sc_exportdirecttopdf"
        inkscape:label="sc_exportdirecttopdf"
-       transform="matrix(1,0,0,0.9983534,0,-23.532324)"
+       transform="matrix(1,0,0,0.99986004,0,-23.94841)"
        inkscape:export-xdpi="90.006569"
        inkscape:export-ydpi="90.006569">
       <path
-         sodipodi:nodetypes="cccccccccccccc"
+         sodipodi:nodetypes="cccccccccc"
          style="fill:#555753;fill-opacity:1;stroke:none"
-         d="m 138,286.36435 0,8 0,2 0,4 11,0 1,0 0,-14 -3,0 z m 1,12.99014 0,-12 10,-1.4e-4 0,12.00014 z"
+         d="m 138,286.36239 c 0,4.60656 0,9.75854 0,14.00196 4,0 8,0 12,0 l 0,-14.00196 c -4,0 -8,0 -12,0 z m 1.00001,13.00183 0,-12.00168 10,0 0,12.00168 z"
          id="path5293"
          inkscape:connector-curvature="0" />
       <rect
@@ -4299,7 +4299,7 @@
          style="fill:none;stroke:none" />
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555753;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m 139,291.36435 c 1.09334,1.28044 2.44323,2.21453 3.5,3.5 1.05677,1.28546 1.82042,2.92229 2.5,4.5 l 4,0 0,-2 c -2.26882,-1.4336 -4.23822,-3.39777 -6,-5 1.10057,0.17208 2.11575,0.0915 3,0 0.88426,-0.0915 1.6376,-0.19388 3,-1 l 0,-3 c -1.69801,0.99164 -3.32497,1.48735 -5,1.5 -1.67502,0.0127 -3.3981,-0.45775 -5,-1.5 z"
+         d="m 139.00001,291.3631 c 1.09334,1.28044 2.44322,2.21501 3.49999,3.50048 1.05677,1.28546 1.82043,2.92293 2.50001,4.50064 l 4,0 0,-2.00028 c -2.26882,-1.4336 -4.23822,-3.39847 -6,-5.0007 1.10057,0.17208 2.11575,0.0915 3,1.1e-4 0.88426,-0.0915 1.63759,-0.19403 2.99999,-1.00015 l 1e-5,-3.00041 c -1.69801,0.99164 -3.32498,1.48755 -5.00001,1.5002 -1.67502,0.0127 -3.39809,-0.45795 -4.99999,-1.5002 z"
          id="path7498"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csccccsccscc" />
