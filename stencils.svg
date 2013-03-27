@@ -15,7 +15,7 @@
    id="svg3358"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="cstencils.svg"
+   sodipodi:docname="stencils.svg"
    inkscape:export-filename="/home/issa/SparkleShare/flat-icons/stencils.png"
    inkscape:export-xdpi="89.997269"
    inkscape:export-ydpi="89.997269">
@@ -288,8 +288,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="204.06854"
-     inkscape:cy="525.21923"
+     inkscape:cx="430.61903"
+     inkscape:cy="390.32807"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3200,10 +3200,9 @@
          style="opacity:0.51464431;color:#555753;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m 21,195.9375 c -1.10457,0 -2,0.89543 -2,2 l 0,17 2,2 14,0 c 1.10457,0 2,-0.89543 2,-2 l 0,-12 0,-0.3125 c 0.0091,-0.38724 -0.318216,-0.7842 -0.59375,-1.0625 l -5.34375,-5.21875 c -0.28464,-0.2694 -0.666452,-0.41522 -1.0625,-0.40625 -3.052083,5e-5 -5.947917,0 -9,0 z m 9,1.96875 0,5 5,0.0312 0,10 0,2 -2,0 -12,0 0,-15 0,-2 9,-0.0312 z"
-         transform="matrix(0.66666662,0,0,0.66666662,37.333331,268.70886)"
-         id="path4813"
-         inkscape:connector-curvature="0" />
+         d="M 21 195.9375 C 19.89543 195.9375 19 196.83338 19 197.9375 L 19 214.9375 C 19 216.04162 19.89543 216.9375 21 216.9375 L 35 216.9375 C 36.10457 216.9375 37 216.04162 37 214.9375 L 37 202.9375 L 37 202.625 C 37.0091 202.23792 36.681784 201.84069 36.40625 201.5625 L 31.0625 196.34375 C 30.77786 196.07446 30.396048 195.92853 30 195.9375 C 26.947917 195.93755 24.052083 195.9375 21 195.9375 z M 30 197.90625 L 30 202.90625 L 35 202.9375 L 35 212.9375 L 35 214.9375 L 33 214.9375 L 23 214.9375 L 21 214.9375 L 21 212.9375 L 21 199.9375 L 21 197.9375 L 30 197.90625 z "
+         transform="matrix(0.66666662,0,0,0.66693815,37.333331,268.64839)"
+         id="path4813" />
     </g>
     <g
        id="lc_open"
@@ -3851,54 +3850,6 @@
          y="-23.046329" />
     </g>
     <g
-       id="lc_dsbeditdoc"
-       transform="translate(171.18613,830.41068)"
-       style="fill:#555753;fill-opacity:1"
-       inkscape:label="lc_dsbeditdoc">
-      <rect
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:none;font-family:Sans"
-         id="rect6689"
-         width="24"
-         height="24"
-         x="180.81387"
-         y="-42.048481" />
-      <path
-         sodipodi:nodetypes="ccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path6691"
-         transform="translate(84.81387,-74.03888)"
-         d="m 115,34.000193 -2,2 3,3 2,-2 c 0,-1.65686 -1.34315,-3 -3,-3 z m -4,4 L 104,45 l 0,3 3,0 7,-6.999807 z"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans" />
-      <rect
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-         id="rect6693"
-         width="9.9999971"
-         height="3.0000017"
-         x="182.81387"
-         y="-39.038689" />
-      <rect
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-         id="rect6695"
-         width="5.9999995"
-         height="3.0000017"
-         x="182.81387"
-         y="-34.038689" />
-      <rect
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-         id="rect6698"
-         width="3.9999955"
-         height="2.9999998"
-         x="182.81387"
-         y="-29.038687" />
-      <rect
-         y="-24.038687"
-         x="182.81387"
-         height="2.9999998"
-         width="15.99998"
-         id="rect6700"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans" />
-    </g>
-    <g
        transform="matrix(1.5,0,0,1.4975301,-264,-197.42662)"
        inkscape:label="lc_formatpaintbrush"
        id="lc_formatpaintbrush">
@@ -4374,12 +4325,6 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <path
-       sodipodi:nodetypes="scssss"
-       inkscape:connector-curvature="0"
-       id="path17273"
-       d="m -121,249.37512 -2,0 0,-1.99918 c 0,-1.10412 -2,0.89506 -2,1.99918 0,1.10412 0.89543,1.99919 2,1.99919 1.10457,0 2.78105,-1.21846 2,-1.99919 z"
-       style="fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <g
        transform="matrix(1.5001711,0,0,1.4993893,200.48242,-981.55707)"
        inkscape:label="lc_hyperlinkdialog"
@@ -4910,5 +4855,14 @@
          y="288.00018"
          transform="translate(-144,220.36202)" />
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#lc_editdoc"
+       id="lc_dsbeditdoc"
+       transform="translate(400.00001,536.0386)"
+       width="639.99994"
+       height="777.93866"
+       inkscape:label="lc_dsbeditdoc" />
   </g>
 </svg>
