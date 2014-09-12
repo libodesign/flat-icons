@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3838985"
-     inkscape:cx="365.86316"
-     inkscape:cy="770.92315"
+     inkscape:zoom="5.535594"
+     inkscape:cx="191.81993"
+     inkscape:cy="765.05418"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1871"
-     inkscape:window-height="1056"
+     inkscape:window-width="935"
+     inkscape:window-height="1028"
      inkscape:window-x="49"
      inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
@@ -5831,7 +5831,8 @@
        inkscape:label="lc_superscript"
        transform="translate(-43.998974,-368.01173)"
        id="lc_superscript"
-       style="fill:#8ae234;display:inline">
+       style="fill:#8ae234;display:inline"
+       inkscape:export-filename="/home/matthias/Arbeitsfläche/sifr/Fertig/lc_superscript.png">
       <g
          style="fill:none"
          id="g6025"
@@ -7330,7 +7331,10 @@
     <g
        transform="matrix(1,0,0,0.99775493,-104.013,-239.41498)"
        inkscape:label="sc_helpindex"
-       id="sc_helpindex">
+       id="sc_helpindex"
+       inkscape:export-filename="/home/matthias/Arbeitsfläche/sifr/Fertig/sc_extendedhelp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="fill:none;stroke:none"
          id="rect4384"
@@ -8022,7 +8026,8 @@
        inkscape:export-xdpi="90"
        transform="translate(600.00123,-263.98709)"
        inkscape:label="lc_fontcolor"
-       id="lc_fontcolor">
+       id="lc_fontcolor"
+       inkscape:export-filename="/home/matthias/Arbeitsfläche/sifr/Fertig/lc_fontcolor.png">
       <rect
          style="fill:none;stroke:none"
          id="rect19155"
@@ -8035,7 +8040,7 @@
          sodipodi:nodetypes="ccccccsssccccsscscccsss"
          inkscape:connector-curvature="0"
          id="path5720-3-8"
-         d="m -122.03124,525.36236 0,3 7.03125,0 c 1.10457,0 2,0.89543 2,2 l -3,0 -2,0 -1,0 c -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 l 0.96875,0 3.03125,0 2,0 3,0 0,-8 c 0,-2.57777 -2.34278,-4.99999 -5,-5 z m 3.03125,8 6,0 0,1 0,1 -6,0 c -0.55229,0 -1,-0.44771 -1,-1 0,-0.55229 0.44771,-1 1,-1 z"
+         d="m -121.00122,525.36108 0,3 6.00123,0.001 c 1.10457,0 2,0.89543 2,2 l -3,0 -2,0 -1,0 c -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 l 0.96875,0 3.03125,0 2,0 3,0 0,-8 c 0,-2.57777 -2.34278,-4.99999 -5,-5 z m 2.00123,8.00128 6,0 0,1 0,1 -6,0 c -0.55229,0 -1,-0.44771 -1,-1 0,-0.55229 0.44771,-1 1,-1 z"
          style="fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
     </g>
     <g
@@ -8887,7 +8892,10 @@
     <g
        transform="matrix(1,0,0,0.9983534,0.00122542,-239.57063)"
        inkscape:label="lc_helpindex"
-       id="lc_helpindex">
+       id="lc_helpindex"
+       inkscape:export-filename="/home/matthias/Arbeitsfläche/sifr/Fertig/lc_extendedhelp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="252.3622"
          x="-88"
@@ -11935,7 +11943,10 @@
        inkscape:label="sc_subscript"
        transform="translate(-43.998974,-368.01173)"
        id="sc_subscript"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/matthias/Arbeitsfläche/sifr/Fertig/sc_subscript.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89">
       <rect
          style="color:#555753;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect6039"
@@ -11964,7 +11975,8 @@
        inkscape:label="lc_subscript"
        transform="translate(-43.998974,-368.01173)"
        id="lc_subscript"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/matthias/Arbeitsfläche/sifr/Fertig/lc_subscript.png">
       <g
          transform="matrix(1,0,0,-1,140,1328.7482)"
          id="g6048">
@@ -12069,7 +12081,8 @@
        inkscape:label="lc_fontdialog"
        id="lc_fontdialog"
        style="display:inline"
-       transform="matrix(1,0,0,0.99946737,176.00103,-303.67262)">
+       transform="matrix(1,0,0,0.99946737,176.00103,-303.67262)"
+       inkscape:export-filename="/home/matthias/Arbeitsfläche/sifr/Fertig/lc_fontdialog.png">
       <path
          inkscape:connector-curvature="0"
          id="path5720-3-5"
@@ -12116,7 +12129,10 @@
        inkscape:label="sc_fontdialog"
        id="sc_fontdialog"
        style="display:inline"
-       transform="translate(184.00103,-303.99879)">
+       transform="translate(184.00103,-303.99879)"
+       inkscape:export-filename="/home/matthias/Arbeitsfläche/sifr/Fertig/sc_fontdialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          id="path17670-1"
@@ -16987,7 +17003,10 @@
     <g
        inkscape:label="lc_zoompage"
        id="lc_zoompage"
-       transform="translate(120.00124,-239.99751)">
+       transform="translate(120.00124,-239.99751)"
+       inkscape:export-filename="/home/matthias/Arbeitsfläche/sifr/Fertig/lc_zoompage.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="M 181 255.375 C 179.892 255.375 179 256.267 179 257.375 L 179 271.375 C 179 272.483 179.892 273.37502 181 273.375 L 195 273.375 C 196.108 273.37498 197 272.483 197 271.375 L 197 257.375 C 197 256.267 196.108 255.375 195 255.375 L 181 255.375 z M 183.84375 257.375 C 185.51636 257.37593 187.23425 257.37559 189.1875 257.375 C 189.40753 257.36929 189.62312 257.45356 189.78125 257.625 L 192.75 260.9375 C 192.90307 261.11461 193.0051 261.37858 193 261.625 L 193 270.4375 C 193 270.95295 192.61648 271.375 192.15625 271.375 L 183.84375 271.375 C 183.38352 271.375 183 270.95295 183 270.4375 L 183 258.28125 C 183 257.7658 183.38352 257.375 183.84375 257.375 z M 184.65625 259.21875 L 184.65625 269.5 L 191.34375 269.5 L 191.34375 262.03125 L 188.84375 262.03125 L 188.84375 259.21875 L 184.65625 259.21875 z "
@@ -18929,8 +18948,8 @@
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans" />
     </g>
     <g
-       id="lc_quit"
-       inkscape:label="lc_quit"
+       id="lc_closedoc"
+       inkscape:label="lc_closedoc"
        transform="translate(152,32.000001)">
       <rect
          style="opacity:0.35;fill:none;stroke:none;display:inline"
@@ -18961,8 +18980,8 @@
     <g
        transform="matrix(0.66666668,0,0,0.66666667,56.000006,49.457998)"
        style="display:inline"
-       id="sc_quit"
-       inkscape:label="sc_quit">
+       id="sc_closedoc"
+       inkscape:label="sc_closedoc">
       <rect
          style="opacity:0.35;fill:none;stroke:none;display:inline"
          id="rect5096-9-8"
@@ -19037,6 +19056,77 @@
          id="rect5523-5-5"
          d="m -61.273958,69.373994 c 0,0 -0.849317,0.876712 -0.849317,1.753424 l 0,10.520524 c 0,0.885122 -0.876711,1.753424 -0.876711,1.753424 l 0.876711,0 c 0,0 0.370737,-0.374349 0.630139,-0.876712 l 0.876712,0 c -0.259402,0.502363 -0.630139,0.876712 -0.630139,0.876712 l 0.876712,0 c 0,0 0.876712,-0.895515 0.876712,-1.753424 l 0,-1.753423 0.876712,0 0,-0.87671 -0.876712,0 0,-4.383544 7.013701,0 0,0.876712 0.876712,0 0.876712,0 0.876712,0 0,-4.383559 c 0,-0.876712 0.849316,-1.753424 0.849316,-1.753424 l -2.630135,0 c 0,0 -0.849317,0.876712 -0.849317,1.753424 l 0,2.630135 -7.013701,0 0,-2.630135 c 0,-0.876712 0.849316,-1.753424 0.849316,-1.753424 z m 0.273969,0.876712 0.876711,0 c -0.134052,0.268084 -0.246573,0.571714 -0.246573,0.876712 l -0.876712,0 c 0,-0.304998 0.112521,-0.608628 0.246574,-0.876712 z m 9.643837,0 0.876711,0 c -0.134059,0.268084 -0.246573,0.571714 -0.246573,0.876712 l -0.876712,0 c 0,-0.304998 0.112514,-0.608628 0.246574,-0.876712 z m -9.890411,1.753423 0.876712,0 0,0.876712 -0.876712,0 z m 9.643837,0 0.876712,0 0,0.876712 -0.876712,0 z m -9.643837,1.753424 0.876712,0 0,0.876712 -0.876712,0 z m 9.643837,0 0.876712,0 0,0.876712 -0.876712,0 z m -9.643837,1.753424 0.876712,0 0,0.876709 -0.876712,0 z m 0,1.753421 0.876712,0 0,0.876706 -0.876712,0 z m 0,1.753411 0.876712,0 0,0.87671 -0.876712,0 z m 0,1.753422 0.876712,0 0,0.876711 -0.876712,0 z"
          inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="display:inline"
+       id="lc_quit"
+       transform="translate(-16.000002,120.00001)"
+       inkscape:export-filename="/home/matthias/Arbeitsfläche/sifr/Fertig/lc_quit.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89"
+       inkscape:label="lc_quit">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.4949051"
+         sodipodi:start="0.7859443"
+         transform="matrix(1.2500001,0,0,1.2500001,-177.44812,-460.57884)"
+         d="m 162.94706,335.31469 c -2.73516,2.73218 -7.16732,2.72976 -9.89949,-0.005 -2.73218,-2.73517 -2.72976,-7.16732 0.005,-9.8995 2.72854,-2.72555 7.14761,-2.73071 9.88251,-0.0115"
+         sodipodi:ry="7"
+         sodipodi:rx="7"
+         sodipodi:cy="330.36224"
+         sodipodi:cx="158.00002"
+         id="path8132-2"
+         style="fill:none;stroke:#555753;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         id="rect7088-4-2-5-8-1"
+         d="m 20.051915,-52.626007 10,5 -10,5 0,-3 -5,0 0,-4 5,0 z"
+         style="fill:#555753;fill-opacity:1;stroke:none;display:inline"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="translate(-144,-215.98824)"
+         y="156.36223"
+         x="152.00002"
+         height="24"
+         width="24"
+         id="rect5159"
+         style="opacity:0.35;fill:none;stroke:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="sc_quit"
+       transform="translate(80.02595,128)"
+       inkscape:export-filename="/home/matthias/Arbeitsfläche/sifr/Fertig/sc_quit.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89"
+       inkscape:label="sc_quit">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.4949051"
+         sodipodi:start="0.7859443"
+         transform="matrix(0.83999978,0,0,0.83999978,-228.77187,-329.13022)"
+         d="m 162.94706,335.31469 c -2.73516,2.73218 -7.16732,2.72976 -9.89949,-0.005 -2.73218,-2.73517 -2.72976,-7.16732 0.005,-9.8995 2.72854,-2.72555 7.14761,-2.73071 9.88251,-0.0115"
+         sodipodi:ry="7"
+         sodipodi:rx="7"
+         sodipodi:cy="330.36224"
+         sodipodi:cx="158.00002"
+         id="path8132-2-1"
+         style="fill:none;stroke:#555753;stroke-width:2.38095307;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         id="rect7088-4-2-5-8-1-4"
+         d="m -95.051888,-54.626011 6.000001,3 -6.000001,3 0,-2 -4,0 0,-2 4,0 z"
+         style="fill:#555753;fill-opacity:1;stroke:none;display:inline"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="-59.626007"
+         x="-104.05189"
+         height="15.999991"
+         width="16.051901"
+         id="rect5159-8"
+         style="opacity:0.35;fill:none;stroke:none" />
     </g>
   </g>
 </svg>
