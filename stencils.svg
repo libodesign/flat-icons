@@ -28,16 +28,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="524.98004"
-     inkscape:cy="595.63439"
+     inkscape:cx="544.82809"
+     inkscape:cy="588.73347"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="959"
      inkscape:window-height="1014"
-     inkscape:window-x="0"
+     inkscape:window-x="960"
      inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
@@ -6516,30 +6516,6 @@
          sodipodi:type="arc" />
     </g>
     <g
-       transform="matrix(1,0,0,0.99959287,-104,0.11443012)"
-       inkscape:label="sc_inserttable"
-       id="sc_inserttable">
-      <g
-         id="use7059"
-         inkscape:label="sc_inserttable">
-        <path
-           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccc"
-           inkscape:connector-curvature="0"
-           id="path7065"
-           transform="translate(-40,220.36202)"
-           d="m 521.00001,18.995053 0,10.004073 14,0 0,-10.004073 z M 522,20 l 3,0 0,2 -3,0 z m 4.5,0 3,0 0,2 -3,0 z m 4.5,0 1,0 2,0 0,2 -3,0 z m -8.99999,2.996682 3,0 0,2 -3,0 z m 4.5,0 3,0 0,2 -3,0 z m 4.5,0 3,0 0,2 -3,0 z m -9,3 3,0 0,2 -3,0 z m 4.5,0 3,0 0,2 -3,0 z m 4.5,0 3,0 0,2 -3,0 z"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555753;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
-        <rect
-           transform="translate(-144,220.36202)"
-           y="16.000193"
-           x="624"
-           height="16"
-           width="16"
-           id="rect7067"
-           style="fill:none;stroke:none" />
-      </g>
-    </g>
-    <g
        transform="translate(-32,208.01167)"
        inkscape:label="sc_designerdialog"
        id="sc_designerdialog">
@@ -7481,15 +7457,30 @@
            sodipodi:nodetypes="cccccccccccccc" />
       </g>
     </g>
-    <use
-       height="592.00018"
-       width="928.01422"
-       transform="translate(-120,559.98831)"
-       inkscape:label="sc_insertspreadsheet"
+    <g
        id="sc_insertspreadsheet"
-       xlink:href="#sc_inserttable"
-       y="0"
-       x="0" />
+       inkscape:label="sc_inserttable"
+       transform="matrix(1,0,0,0.99959287,-224,560.10274)">
+      <g
+         inkscape:label="sc_inserttable"
+         id="g5876">
+        <path
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555753;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+           d="m 521.00001,18.995053 0,10.004073 14,0 0,-10.004073 z M 522,20 l 3,0 0,2 -3,0 z m 4.5,0 3,0 0,2 -3,0 z m 4.5,0 1,0 2,0 0,2 -3,0 z m -8.99999,2.996682 3,0 0,2 -3,0 z m 4.5,0 3,0 0,2 -3,0 z m 4.5,0 3,0 0,2 -3,0 z m -9,3 3,0 0,2 -3,0 z m 4.5,0 3,0 0,2 -3,0 z m 4.5,0 3,0 0,2 -3,0 z"
+           transform="translate(-40,220.36202)"
+           id="path5878"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+        <rect
+           style="fill:none;stroke:none"
+           id="rect5880"
+           width="16"
+           height="16"
+           x="624"
+           y="16.000193"
+           transform="translate(-144,220.36202)" />
+      </g>
+    </g>
     <use
        inkscape:label="lc_alignblock"
        height="592.00018"
@@ -7771,37 +7762,28 @@
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1.33366919;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     </g>
     <g
-       id="lc_inserttable"
+       transform="matrix(1.5,0,0,1.4993893,-447.99989,433.973)"
        inkscape:label="lc_inserttable"
-       transform="matrix(1.5,0,0,1.4993893,-327.99989,-126.01531)">
+       id="lc_insertspreadsheet">
       <g
-         inkscape:label="sc_inserttable"
-         id="g6317">
+         id="g5884"
+         inkscape:label="sc_inserttable">
         <path
-           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-           inkscape:connector-curvature="0"
-           id="path6321"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555753;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
            d="m 482.66663,239.69732 -1.33332,-0.005 -2e-5,1.33839 0,3.32694 0,3.99858 0,1.33334 1.33332,0.005 5.33333,0 5.33333,0 1.33335,-0.005 0,-1.33331 10e-6,-3.99858 0,-3.32694 10e-6,-1.33836 -1.33335,0.005 -5.33333,0 z m 0,1.33192 2,0 0.66666,0 0,2 -2.66666,0 z m 4,0 2.66666,0 0,2 -2.66666,0 z m 4,0 2.66666,0 0,2 -2.66666,0 z m -8.00001,2.66027 2.66667,0 0,2 -2.66667,0 z m 4,0 2.66667,0 0,2 -2.66667,0 z m 4,0 2.66667,0 0,2 -2.66667,0 z m -8.00001,2.66525 2.66667,0 0,2 -0.66667,0 -2,0 z m 4,0 2.66667,0 0,2 -2.66667,0 z m 4,0 2.66667,0 0,2 -2,0 -0.66667,0 z"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555753;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
+           id="path5886"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
         <rect
-           style="fill:none;stroke:none"
-           id="rect6323"
-           width="16"
-           height="16"
-           x="624"
+           transform="translate(-144,220.36202)"
            y="16.000193"
-           transform="translate(-144,220.36202)" />
+           x="624"
+           height="16"
+           width="16"
+           id="rect5888"
+           style="fill:none;stroke:none" />
       </g>
     </g>
-    <use
-       inkscape:label="lc_insertspreadsheet"
-       height="592.00018"
-       width="928.01422"
-       transform="translate(-120,559.98831)"
-       id="lc_insertspreadsheet"
-       xlink:href="#lc_inserttable"
-       y="0"
-       x="0" />
     <g
        style="display:inline"
        inkscape:label="lc_print"
